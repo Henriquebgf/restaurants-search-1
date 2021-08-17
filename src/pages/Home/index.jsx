@@ -1,4 +1,4 @@
-/* eslint-disable camelcase */
+
 import React, { useState } from 'react';
 import { useSelector } from 'react-redux';
 import TextField, { Input } from '@material/react-text-field';
